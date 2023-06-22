@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
-## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## <img align="right" width='40%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <div >
 I'm a self-taught frontend developer. My goal is to master react and javascript so i can help other developers and build fast, stable, reusable and user-friendly web applications.
