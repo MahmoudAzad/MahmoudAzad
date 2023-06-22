@@ -10,7 +10,7 @@ I'm a self-taught frontend developer. My goal is to master react and javascript 
   
 - 🎓 I’m currently learning advanced concepts of javascript and Nextjs.
 - 🌱 I'm on track to learning more about Software Architecture, Data Structure, Algorithem.
-- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/MahmoudAzad)
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mahmoud-azad)
   </div>
   
 ----------------------------------------------
