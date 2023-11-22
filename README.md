@@ -15,6 +15,10 @@ I'm a self-taught frontend developer. My goal is to master react and javascript 
   
 ----------------------------------------------
 
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
 ### 🛠 &nbsp;Technologies
 <div align="left">
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
